@@ -102,7 +102,7 @@ Business data interpretation
 Python  
 R  
 Pandas  
-Jupyter Notebook  
+Google Colab 
 Octoparse  
 Excel  
 
