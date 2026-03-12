@@ -1,6 +1,6 @@
-# Data Science Portfolio
+# Data Analysis Portfolio
 
-This repository contains a collection of **data analysis and data science projects** developed during my MBA in **Management & Data Science at IAE Paris 1 Panthéon-Sorbonne**.
+This repository contains a collection of **data analysis projects** developed during my MBA in **Management & Data Science at IAE Paris 1 Panthéon-Sorbonne**.
 
 The projects focus on extracting insights from data using Python, R and web scraping techniques.
 
